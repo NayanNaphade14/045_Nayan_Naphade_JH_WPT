@@ -1,0 +1,23 @@
+.r1{
+ height: 10vh;
+}
+.r2{
+  height: 10vh;
+ }
+ .i1{
+ border-radius: 10px;
+  width: 100%;
+ }
+ .i2{
+  border-radius: 10px;
+   width: 100%;
+  }
+  #i1{
+    border: solid 2px black;
+   
+  }
+  .i2{
+    border: solid 2px black;
+   text-align: right;
+  }
+  
